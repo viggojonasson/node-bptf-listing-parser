@@ -1,0 +1,25 @@
+{
+    "name": "bptf-listing-parser",
+    "version": "1.0.0",
+    "description": "Parse bptf listings into readable objects containing spells, paints and parts. ",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "npx tsc",
+        "test": "mocha"
+    },
+    "keywords": [
+        "tf2",
+        "backpacktf"
+    ],
+    "author": "Viggo Jonasson",
+    "bugs": {
+        "url": "https://github.com/danocmx/node-bptf-listing-parser/issues"
+    },
+    "homepage": "https://github.com/danocmx/node-bptf-listing-parser#readme",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "mocha": "^9.1.0",
+        "typescript": "^4.3.5"
+    }
+}
