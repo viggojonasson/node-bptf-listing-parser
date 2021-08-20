@@ -1,6 +1,6 @@
 {
     "name": "bptf-listing-parser",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Parse bptf listings into readable objects containing spells, paints and parts. ",
     "main": "dist/index.js",
     "scripts": {
